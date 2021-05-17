@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicUI</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="hey_there">hey there!</string>
+    <string name="show_toast">show toast</string>
+    <string name="next_activity">next activity</string>
+    <string name="enter_name">enter name</string>
+</resources>
